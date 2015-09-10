@@ -11,9 +11,10 @@
 > Gulp通过**流和代码优于配置**策略来尽量简化任务编写的工作。
 
 别的先不说，通过代码来比较两者（gulp VS grunt）
-可以参照我的代码，也可以阅读[该文章] (http://www.techug.com/gulp)
-[Gruntfile.js](https://github.com/hjzheng/angular-cuf-nav/blob/master/Gruntfile.js)
-[gulpfile.js](https://github.com/hjzheng/html2js-gulp-for-cuf/blob/master/gulpfile.js)
+可以参照我的代码，也可以阅读[该文章] (http://www.techug.com/gulp)。
+
+- [Gruntfile.js](https://github.com/hjzheng/angular-cuf-nav/blob/master/Gruntfile.js)
+- [gulpfile.js](https://github.com/hjzheng/html2js-gulp-for-cuf/blob/master/gulpfile.js)
 
 两者的功能基本类似，gulp是通过代码完成任务，体现了代码优于配置的原则，对程序员更加友好，另外它也可以将多个功能一次性串起来，不需要暂存在本地，体现了对流的使用，这个可以阅读[该文章](http://www.techug.com/gulp)里的例子。
 
