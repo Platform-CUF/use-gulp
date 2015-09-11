@@ -75,6 +75,7 @@
 
 - **编译**
   - [gulp-less](https://github.com/plus3network/gulp-less)  处理less [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-7-23/gulp-less-bootstrap)
+  - [gulp-sass](https://github.com/dlmanning/gulp-sass) 处理sass
 
 - **其他**
   - [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer)  Prefix CSS
