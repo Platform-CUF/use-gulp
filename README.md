@@ -137,7 +137,10 @@
 - [探究Gulp的Stream](http://segmentfault.com/a/1190000003770541)
 - [BrowserSync — 你值得拥有的前端同步测试工具](http://segmentfault.com/a/1190000003787713)
 
-#### [gulp模式](https://github.com/johnpapa/gulp-patterns) 一个完整的gulp项目应用例子
+#### gulp项目应用实例
+- [gulp模式](https://github.com/johnpapa/gulp-patterns) 
+- [gf-skeleton-angularjs](https://github.com/gf-rd/gf-skeleton-angularjs)
+- [generator-hottowel](https://github.com/johnpapa/generator-hottowel)
 
 #### gulp常见问题
 
