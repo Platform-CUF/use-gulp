@@ -134,6 +134,8 @@
   - Separate Gulp tasks into multiple files ```require('require-dir')('./gulp')```
 - [Gulp 范儿 -- Gulp 高级技巧](http://csspod.com/advanced-tips-for-using-gulp-js/) :star:
 - [Gulp 错误管理](http://csspod.com/error-management-in-gulp/)
+- [探究Gulp的Stream](http://segmentfault.com/a/1190000003770541)
+- [BrowserSync — 你值得拥有的前端同步测试工具](http://segmentfault.com/a/1190000003787713)
 
 #### [gulp模式](https://github.com/johnpapa/gulp-patterns) 一个完整的gulp项目应用例子
 
