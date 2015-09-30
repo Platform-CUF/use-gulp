@@ -143,7 +143,7 @@
 - [gf-skeleton-angularjs](https://github.com/gf-rd/gf-skeleton-angularjs)
 - [generator-hottowel](https://github.com/johnpapa/generator-hottowel)
 
-#### gulp常见问题
+#### [gulp常见问题](http://segmentfault.com/t/gulp?type=newest)
 
 - [如何拷贝一个目录?](http://stackoverflow.com/questions/25038014/how-do-i-copy-directories-recursively-with-gulp)
 ```js
