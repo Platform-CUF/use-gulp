@@ -126,7 +126,7 @@
 - [Getting ES6 modules working thanks to Browserify, Babel, and Gulp](http://advantcomp.com/blog/ES6Modules/)
 - Gulp学习指南系列：
   - [Gulp学习指南之入门](http://segmentfault.com/a/1190000002768534)
-  - [Gulp学习指南之CSS合并、压缩与MD5命名及路径替换](http://segmentfault.com/a/1190000002768534)
+  - [Gulp学习指南之CSS合并、压缩与MD5命名及路径替换](http://segmentfault.com/a/1190000002932998)
 - [6 Gulp Best Practices](http://blog.rangle.io/angular-gulp-bestpractices/?utm_source=javascriptweekly&utm_medium=email) :star:
   - Automate all Imports (gulp-inject, wiredep, useref and angular-file-sort)
   - Understand directory structure requirements 
