@@ -75,12 +75,15 @@
 
 - **编译**
   - [gulp-less](https://github.com/plus3network/gulp-less)  处理less [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-7-23/gulp-less-bootstrap)
+  - [gulp-sass](https://github.com/dlmanning/gulp-sass) 处理sass
 
 - **其他**
   - [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer)  Prefix CSS
   - [gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps) 生成source map文件
   - [gulp-rev](https://github.com/sindresorhus/gulp-rev) Static asset revisioning by appending content hash to filenames: unicorn.css → unicorn-d41d8cd98f.css 
   - [gulp-iconfont](https://github.com/nfroidure/gulp-iconfont) 制作iconfont [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-7-24/gulp-test-iconfont)
+  - [gulp-svg-symbols](https://github.com/Hiswe/gulp-svg-symbols) 制作SVG Symbols, [关于使用SVG Symbol](http://isux.tencent.com/zh-hans/16292.html)
+  - [gulp-template](https://github.com/sindresorhus/gulp-template) 模板替换
 
 #### gulp入门视频 
 
@@ -123,7 +126,7 @@
 - [Getting ES6 modules working thanks to Browserify, Babel, and Gulp](http://advantcomp.com/blog/ES6Modules/)
 - Gulp学习指南系列：
   - [Gulp学习指南之入门](http://segmentfault.com/a/1190000002768534)
-  - [Gulp学习指南之CSS合并、压缩与MD5命名及路径替换](http://segmentfault.com/a/1190000002768534)
+  - [Gulp学习指南之CSS合并、压缩与MD5命名及路径替换](http://segmentfault.com/a/1190000002932998)
 - [6 Gulp Best Practices](http://blog.rangle.io/angular-gulp-bestpractices/?utm_source=javascriptweekly&utm_medium=email) :star:
   - Automate all Imports (gulp-inject, wiredep, useref and angular-file-sort)
   - Understand directory structure requirements 
@@ -133,10 +136,26 @@
   - Separate Gulp tasks into multiple files ```require('require-dir')('./gulp')```
 - [Gulp 范儿 -- Gulp 高级技巧](http://csspod.com/advanced-tips-for-using-gulp-js/) :star:
 - [Gulp 错误管理](http://csspod.com/error-management-in-gulp/)
+- [探究Gulp的Stream](http://segmentfault.com/a/1190000003770541)
+- [Gulp安装及配合组件构建前端开发一体化](http://www.dbpoo.com/getting-started-with-gulp/)
+- [Gulp 入门指南](https://github.com/nimojs/gulp-book)
+- [Gulp 入门指南 - nimojs](https://github.com/nimojs/blog/issues/19)
+- [Gulp入门教程](http://markpop.github.io/2014/09/17/Gulp%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/)
+- [Gulp in Action](http://www.imooc.com/learn/390)
+- [Gulp开发教程（翻译）](http://www.w3ctech.com/topic/134)
+- [Gulp：任务自动管理工具 - ruanyifeng](http://javascript.ruanyifeng.com/tool/gulp.html)
+- [Gulp插件](http://gulpjs.com/plugins/)
+- [Gulp不完全入门教程](http://www.ido321.com/1622.html)
 
-#### [gulp模式](https://github.com/johnpapa/gulp-patterns) 一个完整的gulp项目应用例子
+#### BrowserSync
+- [BrowserSync — 你值得拥有的前端同步测试工具](http://segmentfault.com/a/1190000003787713)
 
-#### gulp常见问题
+#### gulp项目应用实例
+- [gulp模式](https://github.com/johnpapa/gulp-patterns) 
+- [gf-skeleton-angularjs](https://github.com/gf-rd/gf-skeleton-angularjs)
+- [generator-hottowel](https://github.com/johnpapa/generator-hottowel)
+
+#### [gulp常见问题](http://segmentfault.com/t/gulp?type=newest)
 
 - [如何拷贝一个目录?](http://stackoverflow.com/questions/25038014/how-do-i-copy-directories-recursively-with-gulp)
 ```js
