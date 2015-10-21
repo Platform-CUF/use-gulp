@@ -137,6 +137,12 @@
 - [Gulp 范儿 -- Gulp 高级技巧](http://csspod.com/advanced-tips-for-using-gulp-js/) :star:
 - [Gulp 错误管理](http://csspod.com/error-management-in-gulp/) :star:
 - [探究Gulp的Stream](http://segmentfault.com/a/1190000003770541)
+- [Gulp安装及配合组件构建前端开发一体化](http://www.dbpoo.com/getting-started-with-gulp/)
+- [Gulp入门指南](https://github.com/nimojs/gulp-book)
+- [Gulp入门指南 - nimojs](https://github.com/nimojs/blog/issues/19)
+- [Gulp入门教程](http://markpop.github.io/2014/09/17/Gulp%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/)
+- [Gulp开发教程（翻译）](http://www.w3ctech.com/topic/134)
+- [Gulp：任务自动管理工具 - ruanyifeng](http://javascript.ruanyifeng.com/tool/gulp.html)
 - [BrowserSync — 你值得拥有的前端同步测试工具](http://segmentfault.com/a/1190000003787713)
 
 #### gulp项目应用实例
