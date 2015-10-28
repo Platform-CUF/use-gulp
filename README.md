@@ -84,6 +84,8 @@
   - [gulp-iconfont](https://github.com/nfroidure/gulp-iconfont) 制作iconfont [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-7-24/gulp-test-iconfont)
   - [gulp-svg-symbols](https://github.com/Hiswe/gulp-svg-symbols) 制作SVG Symbols, [关于使用SVG Symbol](http://isux.tencent.com/zh-hans/16292.html)
   - [gulp-template](https://github.com/sindresorhus/gulp-template) 模板替换
+  - [gulp-dom-src](https://github.com/cgross/gulp-dom-src) 将html中的script，link等标签中的文件转成gulp stream。
+  - [gulp-cheerio](https://github.com/KenPowers/gulp-cheerio) Manipulate HTML and XML files with Cheerio in Gulp. 
 
 #### gulp入门视频 
 
