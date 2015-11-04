@@ -18,6 +18,8 @@
 
 两者的功能基本类似，gulp是通过代码完成任务，体现了代码优于配置的原则，对程序员更加友好，另外它也可以将多个功能一次性串起来，不需要暂存在本地，体现了对流的使用，这个可以阅读[该文章](http://www.techug.com/gulp)里的例子。
 
+另外，经常会有人问，为什么gulp比grunt快，这个可以参考这篇[文章](https://github.com/imsobear/blog/issues/40)
+
 #### 常用资料
 - Gulp官网 http://gulpjs.com/
 - Gulp中文网 http://www.gulpjs.com.cn/
