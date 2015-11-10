@@ -79,6 +79,10 @@
   - [gulp-less](https://github.com/plus3network/gulp-less)  处理less [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-7-23/gulp-less-bootstrap)
   - [gulp-sass](https://github.com/dlmanning/gulp-sass) 处理sass
 
+- **代码分析**
+  - [gulp-jshint](https://github.com/spalger/gulp-jshint) JSHint检查 [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-11-10)
+  - [gulp-jscs](https://github.com/jscs-dev/gulp-jscs) 检查JS代码风格 [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-11-10)
+
 - **其他**
   - [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer)  Prefix CSS
   - [gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps) 生成source map文件
