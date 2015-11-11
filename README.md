@@ -58,6 +58,7 @@
   - [gulp-help](https://github.com/chmontgomery/gulp-help) 为task添加帮助描述
   - [gulp-jsdoc](https://github.com/jsBoot/gulp-jsdoc) 生成JS文档
   - [gulp-plumber](https://github.com/floatdrop/gulp-plumber) Prevent pipe breaking caused by errors from gulp plugins [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-11-10)
+  - [yargs](https://github.com/bcoe/yargs) 处理 process.argv
 
 - **JS/CSS自动注入**
   - [gulp-usemin](https://github.com/zont/gulp-usemin) Replaces references to non-optimized scripts or stylesheets into a set of HTML files
