@@ -40,7 +40,7 @@
   - [gulp-angular-extender](https://libraries.io/npm/gulp-angular-extender) 为angular module添加dependencies
 
 - **文件操作**
-  - [gulp-clean](https://github.com/peter-vilja/gulp-clean)  删除文件和目录
+  - [gulp-clean](https://github.com/peter-vilja/gulp-clean)  删除文件和目录, 请用[del](https://github.com/sindresorhus/del)来代替它[Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-11-10)
   - [gulp-concat](https://github.com/wearefractal/gulp-concat) 合并文件
   - [gulp-rename](https://github.com/hparra/gulp-rename) 重命名文件
   - [gulp-order](https://github.com/sirlantis/gulp-order) 对src中的文件按照指定顺序进行排序
@@ -57,6 +57,7 @@
   - [gulp-task-listing](https://github.com/OverZealous/gulp-task-listing) 快速显示gulp task列表
   - [gulp-help](https://github.com/chmontgomery/gulp-help) 为task添加帮助描述
   - [gulp-jsdoc](https://github.com/jsBoot/gulp-jsdoc) 生成JS文档
+  - [gulp-plumber](https://github.com/floatdrop/gulp-plumber) Prevent pipe breaking caused by errors from gulp plugins [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-11-10)
 
 - **JS/CSS自动注入**
   - [gulp-usemin](https://github.com/zont/gulp-usemin) Replaces references to non-optimized scripts or stylesheets into a set of HTML files
