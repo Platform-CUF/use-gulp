@@ -70,7 +70,7 @@
   - [gulp-useref](https://github.com/jonkemp/gulp-useref) 功能类似与usemin [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-8-17/bower-dependence-inject)
 
 - **代码同步**
-  - [browser-sync](https://github.com/BrowserSync/browser-sync) 自动同步浏览器，结合gulp.watch方法一起使用 [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-5-30/gulp-babel-test)
+  - [browser-sync](https://github.com/BrowserSync/browser-sync) 自动同步浏览器，结合gulp.watch方法一起使用 [Example 1](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-5-30/gulp-babel-test) [Example 2](https://github.com/hjzheng/es6-practice/blob/master/gulpfile.js)
   - [gulp-nodemon](https://github.com/JacksonGariety/gulp-nodemon) server端代码同步
 
 - **Transpilation**
