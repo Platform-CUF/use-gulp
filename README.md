@@ -59,6 +59,9 @@
   - [gulp-jsdoc](https://github.com/jsBoot/gulp-jsdoc) 生成JS文档
   - [gulp-plumber](https://github.com/floatdrop/gulp-plumber) Prevent pipe breaking caused by errors from gulp plugins [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-11-10)
   - [yargs](https://github.com/bcoe/yargs) 处理 process.argv
+  - [run-sequence](https://github.com/OverZealous/run-sequence) 顺序执行 gulp task，gulp 4.0 已经支持该功能 `gulp.series(...tasks)`
+  - [gulp-notify](https://github.com/mikaelbr/gulp-notify) gulp plugin to send messages based on Vinyl Files
+  - [gulp-shell](https://github.com/sun-zheng-an/gulp-shell) 非常有用
 
 - **JS/CSS自动注入**
   - [gulp-usemin](https://github.com/zont/gulp-usemin) Replaces references to non-optimized scripts or stylesheets into a set of HTML files
