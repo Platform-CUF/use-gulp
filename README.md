@@ -38,6 +38,7 @@
   - [gulp-ng-annotate](https://github.com/Kagami/gulp-ng-annotate) 注明依赖 for angular
   - [gulp-ng-html2js](https://github.com/marklagendijk/gulp-ng-html2js) html2js for angular
   - [gulp-angular-extender](https://libraries.io/npm/gulp-angular-extender) 为angular module添加dependencies
+  - [gulp-angular-templatecache](https://github.com/miickel/gulp-angular-templatecache) 将html模板缓存到$templateCache中
 
 - **文件操作**
   - [gulp-clean](https://github.com/peter-vilja/gulp-clean)  删除文件和目录, 请用[del](https://github.com/sindresorhus/del)来代替它[Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-11-10)
@@ -49,6 +50,8 @@
 - **压缩**
   - [gulp-minify-css](https://github.com/murphydanger/gulp-minify-css)压缩css
   - [gulp-uglify](https://github.com/terinjokes/gulp-uglify) 用uglify压缩js
+  - [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) 压缩图片
+  - [gulp-minify-html](https://github.com/murphydanger/gulp-minify-html) 压缩html
 
 
 - **工具**
