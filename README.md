@@ -45,7 +45,7 @@
   - [gulp-concat](https://github.com/wearefractal/gulp-concat) 合并文件
   - [gulp-rename](https://github.com/hparra/gulp-rename) 重命名文件
   - [gulp-order](https://github.com/sirlantis/gulp-order) 对src中的文件按照指定顺序进行排序
-  - [gulp-filter](https://github.com/sindresorhus/gulp-filter) 过滤文件 非常有用
+  - [gulp-filter](https://github.com/sindresorhus/gulp-filter) 过滤文件 非常有用 [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/blob/master/2015-11-10/gulpfile.js)
 
 - **压缩**
   - [gulp-minify-css](https://github.com/murphydanger/gulp-minify-css)压缩css
@@ -174,5 +174,11 @@
 ```js
 gulp.src([ files ], { "base" : "." })
 ```
+
+#### gulp 4.0 相关
+目前 gulp 4.0 还没有正式release，先推荐一篇文章让大家热热身。
+
+- [Gulp 4.0 前瞻](http://segmentfault.com/a/1190000002528547)
+- [Gulp 4.0 API 文档](https://github.com/cssmagic/blog/issues/55)
 
 不定期更新中 ... ...
