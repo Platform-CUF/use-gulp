@@ -93,6 +93,12 @@
   - [gulp-jshint](https://github.com/spalger/gulp-jshint) JSHint检查 [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-11-10)
   - [gulp-jscs](https://github.com/jscs-dev/gulp-jscs) 检查JS代码风格 [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-11-10)
 
+- **特别推荐**
+  - [gulp-changed](https://github.com/sindresorhus/gulp-changed) 只传输修改过的文件
+  - [gulp-cached](https://github.com/wearefractal/gulp-cached) 将文件先cache起来，先不进行操作
+  - [gulp-remember](https://github.com/ahaurw01/gulp-remember) 和gulp-cached一块使用
+  - [gulp-newer](https://github.com/tschaub/gulp-newer) pass through newer source files only, supports many:1 source:dest
+
 - **其他**
   - [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer)  Prefix CSS
   - [gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps) 生成source map文件
