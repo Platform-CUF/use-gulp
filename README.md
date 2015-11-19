@@ -103,6 +103,7 @@
   - [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer)  Prefix CSS
   - [gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps) 生成source map文件
   - [gulp-rev](https://github.com/sindresorhus/gulp-rev) Static asset revisioning by appending content hash to filenames: unicorn.css → unicorn-d41d8cd98f.css 
+  - [gulp-rev-replace](https://github.com/jamesknelson/gulp-rev-replace) [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-11-10)
   - [gulp-iconfont](https://github.com/nfroidure/gulp-iconfont) 制作iconfont [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-7-24/gulp-test-iconfont)
   - [gulp-svg-symbols](https://github.com/Hiswe/gulp-svg-symbols) 制作SVG Symbols, [关于使用SVG Symbol](http://isux.tencent.com/zh-hans/16292.html)
   - [gulp-template](https://github.com/sindresorhus/gulp-template) 模板替换
