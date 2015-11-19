@@ -147,6 +147,7 @@
 
 #### gulp精彩文章
 - [Using GulpJS to Generate Environment Configuration Modules](http://www.atticuswhite.com/blog/angularjs-configuration-with-gulpjs/)
+- [Introduction to Gulp.js](http://stefanimhoff.de/2014/gulp-tutorial-1-intro-setup/)
 - [Merging multiple GulpJS streams into one output file](http://www.atticuswhite.com/blog/merging-gulpjs-streams/)
 - [Getting ES6 modules working thanks to Browserify, Babel, and Gulp](http://advantcomp.com/blog/ES6Modules/)
 - Gulp学习指南系列：
