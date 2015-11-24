@@ -66,6 +66,7 @@
   - [run-sequence](https://github.com/OverZealous/run-sequence) 顺序执行 gulp task，gulp 4.0 已经支持该功能 `gulp.series(...tasks)`
   - [gulp-notify](https://github.com/mikaelbr/gulp-notify) gulp plugin to send messages based on Vinyl Files
   - [gulp-shell](https://github.com/sun-zheng-an/gulp-shell) 非常有用
+  - [gulp-grunt](https://github.com/gratimax/gulp-grunt) 在gulp中运行grunt task
 
 - **JS/CSS自动注入**
   - [gulp-usemin](https://github.com/zont/gulp-usemin) Replaces references to non-optimized scripts or stylesheets into a set of HTML files
@@ -170,6 +171,7 @@
 - [Gulp开发教程（翻译）](http://www.w3ctech.com/topic/134)
 - [Gulp：任务自动管理工具 - ruanyifeng](http://javascript.ruanyifeng.com/tool/gulp.html)
 - [BrowserSync — 你值得拥有的前端同步测试工具](http://segmentfault.com/a/1190000003787713)
+- [Essential Plugins for Gulp](http://ipestov.com/essential-plugins-for-gulp/)
 
 #### gulp项目应用实例
 - [gulp模式](https://github.com/johnpapa/gulp-patterns) 
