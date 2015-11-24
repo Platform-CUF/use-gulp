@@ -184,9 +184,10 @@ gulp.src([ files ], { "base" : "." })
 ```
 
 #### gulp 4.0 相关
-目前 gulp 4.0 还没有正式release，先推荐一篇文章让大家热热身。
+目前 gulp 4.0 还没有正式release，先推荐几篇文章让大家热热身。
 
 - [Gulp 4.0 前瞻](http://segmentfault.com/a/1190000002528547)
 - [Gulp 4.0 API 文档](https://github.com/cssmagic/blog/issues/55)
+- [是时候升级你的gulp到4.0了](http://www.alloyteam.com/2015/07/update-your-gulp/)
 
 不定期更新中 ... ...
