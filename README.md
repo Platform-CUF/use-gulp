@@ -163,7 +163,7 @@
   - Separate Gulp tasks into multiple files ```require('require-dir')('./gulp')```
 - [Gulp 范儿 -- Gulp 高级技巧](http://csspod.com/advanced-tips-for-using-gulp-js/) :star:
 - [Gulp 错误管理](http://csspod.com/error-management-in-gulp/) :star:
-- [探究Gulp的Stream](http://segmentfault.com/a/1190000003770541)
+- [探究Gulp的Stream](http://segmentfault.com/a/1190000003770541) :star:
 - [Gulp安装及配合组件构建前端开发一体化](http://www.dbpoo.com/getting-started-with-gulp/)
 - [Gulp入门指南](https://github.com/nimojs/gulp-book)
 - [Gulp入门指南 - nimojs](https://github.com/nimojs/blog/issues/19)
@@ -171,7 +171,8 @@
 - [Gulp开发教程（翻译）](http://www.w3ctech.com/topic/134)
 - [Gulp：任务自动管理工具 - ruanyifeng](http://javascript.ruanyifeng.com/tool/gulp.html)
 - [BrowserSync — 你值得拥有的前端同步测试工具](http://segmentfault.com/a/1190000003787713)
-- [Essential Plugins for Gulp](http://ipestov.com/essential-plugins-for-gulp/)
+- [Essential Plugins for Gulp](http://ipestov.com/essential-plugins-for-gulp/) :star:
+- [10 things to know about Gulp](http://engineroom.teamwork.com/10-things-to-know-about-gulp/?utm_source=javascriptweekly&utm_medium=email) :star:
 
 #### gulp项目应用实例
 - [gulp模式](https://github.com/johnpapa/gulp-patterns) 
