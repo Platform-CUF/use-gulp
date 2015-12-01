@@ -173,6 +173,9 @@
 - [BrowserSync — 你值得拥有的前端同步测试工具](http://segmentfault.com/a/1190000003787713)
 - [Essential Plugins for Gulp](http://ipestov.com/essential-plugins-for-gulp/) :star:
 - [10 things to know about Gulp](http://engineroom.teamwork.com/10-things-to-know-about-gulp/?utm_source=javascriptweekly&utm_medium=email) :star:
+- [Writing a gulp plugin](https://github.com/gulpjs/gulp/blob/master/docs/writing-a-plugin/README.md) :star:
+- [Gulp Plugin 开发](https://segmentfault.com/a/1190000000704549) :star:
+- [前端 | 重构 gulpfile.js](https://segmentfault.com/a/1190000002880177)
 
 #### gulp项目结构应用实例
 - [gulp模式](https://github.com/johnpapa/gulp-patterns) 
