@@ -174,11 +174,12 @@
 - [Essential Plugins for Gulp](http://ipestov.com/essential-plugins-for-gulp/) :star:
 - [10 things to know about Gulp](http://engineroom.teamwork.com/10-things-to-know-about-gulp/?utm_source=javascriptweekly&utm_medium=email) :star:
 
-#### gulp项目应用实例
+#### gulp项目结构应用实例
 - [gulp模式](https://github.com/johnpapa/gulp-patterns) 
 - [gf-skeleton-angularjs](https://github.com/gf-rd/gf-skeleton-angularjs)
 - [generator-hottowel](https://github.com/johnpapa/generator-hottowel)
 - [generator-gulp-angular](https://github.com/swiip/generator-gulp-angular#readme)
+- [generator-gulper](https://github.com/leaky/generator-gulper)
 
 #### [gulp常见问题](http://segmentfault.com/t/gulp?type=newest)
 
