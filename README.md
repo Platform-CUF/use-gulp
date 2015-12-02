@@ -197,5 +197,6 @@ gulp.src([ files ], { "base" : "." })
 - [Gulp 4.0 前瞻](http://segmentfault.com/a/1190000002528547)
 - [Gulp 4.0 API 文档](https://github.com/cssmagic/blog/issues/55)
 - [是时候升级你的gulp到4.0了](http://www.alloyteam.com/2015/07/update-your-gulp/)
+- [Migrating to gulp 4 by example](https://blog.wearewizards.io/migrating-to-gulp-4-by-example)
 
 不定期更新中 ... ...
