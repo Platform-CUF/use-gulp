@@ -176,6 +176,7 @@
 - [Writing a gulp plugin](https://github.com/gulpjs/gulp/blob/master/docs/writing-a-plugin/README.md) :star:
 - [Gulp Plugin 开发](https://segmentfault.com/a/1190000000704549) :star:
 - [前端 | 重构 gulpfile.js](https://segmentfault.com/a/1190000002880177)
+- [gulp使用经验谈](http://www.qiqiboy.com/post/61)
 
 #### gulp项目结构应用实例
 - [gulp模式](https://github.com/johnpapa/gulp-patterns) 
