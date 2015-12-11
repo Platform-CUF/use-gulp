@@ -18,7 +18,16 @@
 
 两者的功能基本类似，gulp是通过代码完成任务，体现了代码优于配置的原则，对程序员更加友好，另外它也可以将多个功能一次性串起来，不需要暂存在本地，体现了对流的使用，这个可以阅读[该文章](http://www.techug.com/gulp)里的例子。
 
-另外，经常会有人问，为什么gulp比grunt快，这个可以参考这篇[文章](http://jaysoo.ca/2014/01/27/gruntjs-vs-gulpjs/)
+另外，经常会有人问，为什么gulp比grunt快，这个可以参考这篇[文章](http://jaysoo.ca/2014/01/27/gruntjs-vs-gulpjs/) 或者我本人在segmentfault上得回答[编译同样的scss，为什么gulp的速度几乎是grunt的两倍?](http://segmentfault.com/q/1010000003951849/a-1020000003952258)
+
+#### 关于NodeJS流(stream)
+因为gulp是基于流的方式工作的，所以想要进一步深入gulp，我们应该先学习NodeJS的流, 当然即使对流不熟悉，依然可以很方便的使用gulp。
+  - 资料
+    - [NodeSchool stream-adventure](https://github.com/substack/stream-adventure)
+    - [stream-handbook](https://github.com/substack/stream-handbook)
+  - 相关视频
+    - [How streams help to raise Node.js performance](https://www.youtube.com/watch?v=QgEuZ52OZtU&list=PLPlAdM3UjHKok9rS8_RTQTSLtRBThk1ni&index=2)
+    - [Node.js streams for the utterly confused](https://www.youtube.com/watch?v=9llfAByho98&index=1&list=PLPlAdM3UjHKok9rS8_RTQTSLtRBThk1ni)
 
 #### 常用资料
 - Gulp官网 http://gulpjs.com/
