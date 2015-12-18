@@ -186,7 +186,10 @@
 - [Gulp Plugin 开发](https://segmentfault.com/a/1190000000704549) :star:
 - [前端 | 重构 gulpfile.js](https://segmentfault.com/a/1190000002880177)
 - [gulp使用经验谈](http://www.qiqiboy.com/post/61)
+
+#### gulp和ES6
 - [在gulp中使用ES6](http://segmentfault.com/a/1190000004136053) :star:
+- [Using ES6 with gulp](https://markgoodyear.com/2015/06/using-es6-with-gulp/)
 
 #### gulp项目结构应用实例
 - [gulp模式](https://github.com/johnpapa/gulp-patterns) 
