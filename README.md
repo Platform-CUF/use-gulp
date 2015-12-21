@@ -198,7 +198,7 @@
 - [generator-gulp-angular](https://github.com/swiip/generator-gulp-angular#readme)
 - [generator-gulper](https://github.com/leaky/generator-gulper)
 
-#### [gulp常见问题](http://segmentfault.com/t/gulp?type=newest)
+#### gulp常见问题 [segmentfault之gulp](http://segmentfault.com/t/gulp?type=newest)
 
 - [如何拷贝一个目录?](http://stackoverflow.com/questions/25038014/how-do-i-copy-directories-recursively-with-gulp)
 ```js
