@@ -192,6 +192,9 @@
 - [在gulp中使用ES6](http://segmentfault.com/a/1190000004136053) :star:
 - [Using ES6 with gulp](https://markgoodyear.com/2015/06/using-es6-with-gulp/)
 
+#### debug gulp task
+- [Debugging Gulp.js Tasks](http://www.greg5green.com/blog/debugging-gulp-js-tasks/)
+
 #### gulp项目结构应用实例
 - [gulp模式](https://github.com/johnpapa/gulp-patterns) 
 - [gf-skeleton-angularjs](https://github.com/gf-rd/gf-skeleton-angularjs)
