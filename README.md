@@ -32,6 +32,7 @@
 #### 常用资料
 - Gulp官网 http://gulpjs.com/
 - Gulp中文网 http://www.gulpjs.com.cn/
+- Gulp中文文档 https://github.com/lisposter/gulp-docs-zh-cn
 - Gulp插件网 http://gulpjs.com/plugins/
 - Awesome Gulp https://github.com/alferov/awesome-gulp
 
