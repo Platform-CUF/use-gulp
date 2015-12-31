@@ -120,6 +120,7 @@
   - [gulp-template](https://github.com/sindresorhus/gulp-template) 模板替换
   - [gulp-dom-src](https://github.com/cgross/gulp-dom-src) 将html中的script，link等标签中的文件转成gulp stream。
   - [gulp-cheerio](https://github.com/KenPowers/gulp-cheerio) Manipulate HTML and XML files with Cheerio in Gulp. 
+  - [require-dir](https://www.npmjs.com/package/require-dir) 利用它我们可以将 gulpfile.js 分成多个文件，具体用法可以参考这个[Splitting a gulpfile into multiple files](http://macr.ae/article/splitting-gulpfile-multiple-files.html)
 
 #### gulp入门视频 
 
@@ -187,6 +188,8 @@
 - [Gulp Plugin 开发](https://segmentfault.com/a/1190000000704549) :star:
 - [前端 | 重构 gulpfile.js](https://segmentfault.com/a/1190000002880177)
 - [gulp使用经验谈](http://www.qiqiboy.com/post/61)
+- [Splitting a gulpfile into multiple files](http://macr.ae/article/splitting-gulpfile-multiple-files.html) :star:
+- [Make your Gulp modular](http://makina-corpus.com/blog/metier/2015/make-your-gulp-modular)
 
 #### gulp和ES6
 - [在gulp中使用ES6](http://segmentfault.com/a/1190000004136053) :star:
