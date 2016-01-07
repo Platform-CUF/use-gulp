@@ -56,6 +56,7 @@
   - [gulp-rename](https://github.com/hparra/gulp-rename) 重命名文件
   - [gulp-order](https://github.com/sirlantis/gulp-order) 对src中的文件按照指定顺序进行排序
   - [gulp-filter](https://github.com/sindresorhus/gulp-filter) 过滤文件 非常有用 [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/blob/master/2015-11-10/gulpfile.js)
+  - [gulp-flatten](https://github.com/armed/gulp-flatten) 当拷贝文件时，不想拷贝目录时使用 [segmentfault](http://segmentfault.com/q/1010000004266922)
 
 - **压缩**
   - [gulp-minify-css](https://github.com/murphydanger/gulp-minify-css)压缩css
