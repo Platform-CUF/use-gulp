@@ -191,6 +191,7 @@
 - [gulp使用经验谈](http://www.qiqiboy.com/post/61)
 - [Splitting a gulpfile into multiple files](http://macr.ae/article/splitting-gulpfile-multiple-files.html) :star:
 - [Make your Gulp modular](http://makina-corpus.com/blog/metier/2015/make-your-gulp-modular)
+- [gulp 传参数 实现定制化执行任务](http://yijiebuyi.com/blog/d64c5d28eb539941bf3b855d333850cc.html) 使用 `gulp.env`
 
 #### gulp和ES6
 - [在gulp中使用ES6](http://segmentfault.com/a/1190000004136053) :star:
