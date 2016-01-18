@@ -35,6 +35,8 @@
 - Gulp中文文档 https://github.com/lisposter/gulp-docs-zh-cn
 - Gulp插件网 http://gulpjs.com/plugins/
 - Awesome Gulp https://github.com/alferov/awesome-gulp
+- StuQ-Gulp实战和原理解析 http://i5ting.github.io/stuq-gulp/
+
 
 #### gulp常用插件
 
