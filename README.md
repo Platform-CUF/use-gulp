@@ -114,6 +114,7 @@
   - [gulp-newer](https://github.com/tschaub/gulp-newer) pass through newer source files only, supports many:1 source:dest
 
 - **其他**
+  - [webpack-stream](https://github.com/shama/webpack-stream) gulp与webpack [Example](https://github.com/hjzheng/angular-es6-practice/blob/master/gulp/scripts.js)
   - [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer)  Prefix CSS
   - [gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps) 生成source map文件
   - [gulp-rev](https://github.com/sindresorhus/gulp-rev) Static asset revisioning by appending content hash to filenames: unicorn.css → unicorn-d41d8cd98f.css 
