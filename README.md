@@ -36,6 +36,7 @@
 - Gulp插件网 http://gulpjs.com/plugins/
 - Awesome Gulp https://github.com/alferov/awesome-gulp
 - StuQ-Gulp实战和原理解析 http://i5ting.github.io/stuq-gulp/
+- glob用法 https://github.com/isaacs/node-glob
 
 
 #### gulp常用插件
