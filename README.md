@@ -203,6 +203,7 @@
 
 #### debug gulp task
 - [Debugging Gulp.js Tasks](http://www.greg5green.com/blog/debugging-gulp-js-tasks/)
+- [Debug command line apps like Gulp](https://github.com/s-a/iron-node/blob/master/docs/DEBUG-NODEJS-COMMANDLINE-APPS.md)
 
 #### gulp项目结构应用实例
 - [gulp模式](https://github.com/johnpapa/gulp-patterns) 
