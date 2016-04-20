@@ -201,6 +201,9 @@
 - [在gulp中使用ES6](http://segmentfault.com/a/1190000004136053) :star:
 - [Using ES6 with gulp](https://markgoodyear.com/2015/06/using-es6-with-gulp/)
 
+#### gulp和babelify
+- [Example](https://gist.github.com/hjzheng/0ff59d37aa23fbd831e081138c6f24f9)
+
 #### debug gulp task
 - [Debugging Gulp.js Tasks](http://www.greg5green.com/blog/debugging-gulp-js-tasks/)
 - [Debug command line apps like Gulp](https://github.com/s-a/iron-node/blob/master/docs/DEBUG-NODEJS-COMMANDLINE-APPS.md)
