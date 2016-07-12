@@ -126,6 +126,7 @@
   - [gulp-dom-src](https://github.com/cgross/gulp-dom-src) 将html中的script，link等标签中的文件转成gulp stream。
   - [gulp-cheerio](https://github.com/KenPowers/gulp-cheerio) Manipulate HTML and XML files with Cheerio in Gulp. 
   - [require-dir](https://www.npmjs.com/package/require-dir) 利用它我们可以将 gulpfile.js 分成多个文件，具体用法可以参考这个[Splitting a gulpfile into multiple files](http://macr.ae/article/splitting-gulpfile-multiple-files.html)
+  - [gulp-nodemon](https://github.com/JacksonGariety/gulp-nodemon) 强烈推荐, 监控你的node应用,并重现启动server
 
 #### gulp入门视频 
 
