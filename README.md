@@ -210,6 +210,7 @@
 - [Debug command line apps like Gulp](https://github.com/s-a/iron-node/blob/master/docs/DEBUG-NODEJS-COMMANDLINE-APPS.md)
 
 #### gulp项目结构应用实例
+- [gulp-AngularJS1.x-seed](https://github.com/hjzheng/gulp-AngularJS1.x-seed) :star: 自己写的一个开发环境(gulp + AngularJS1.x)
 - [gulp模式](https://github.com/johnpapa/gulp-patterns) 
 - [gf-skeleton-angularjs](https://github.com/gf-rd/gf-skeleton-angularjs)
 - [generator-hottowel](https://github.com/johnpapa/generator-hottowel)
