@@ -62,7 +62,7 @@
   - [gulp-flatten](https://github.com/armed/gulp-flatten) 当拷贝文件时，不想拷贝目录时使用 [segmentfault](http://segmentfault.com/q/1010000004266922)
 
 - **压缩**
-  - [gulp-minify-css](https://github.com/murphydanger/gulp-minify-css)压缩css
+  - [gulp-clean-css](https://github.com/scniro/gulp-clean-css)压缩css
   - [gulp-uglify](https://github.com/terinjokes/gulp-uglify) 用uglify压缩js
   - [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) 压缩图片
   - [gulp-minify-html](https://github.com/murphydanger/gulp-minify-html) 压缩html
