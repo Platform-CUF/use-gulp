@@ -74,7 +74,7 @@
   - [gulp-load-utils](https://www.npmjs.com/package/gulp-load-utils) 增强版gulp-utils
   - [gulp-task-listing](https://github.com/OverZealous/gulp-task-listing) 快速显示gulp task列表
   - [gulp-help](https://github.com/chmontgomery/gulp-help) 为task添加帮助描述
-  - [gulp-jsdoc](https://github.com/jsBoot/gulp-jsdoc) 生成JS文档
+  - [gulp-jsdoc3](https://github.com/mlucool/gulp-jsdoc3) 生成JS文档
   - [gulp-plumber](https://github.com/floatdrop/gulp-plumber) Prevent pipe breaking caused by errors from gulp plugins [Example](https://github.com/hjzheng/CUF_meeting_knowledge_share/tree/master/2015-11-10)
   - [yargs](https://github.com/bcoe/yargs) 处理 process.argv
   - [run-sequence](https://github.com/OverZealous/run-sequence) 顺序执行 gulp task，gulp 4.0 已经支持该功能 `gulp.series(...tasks)`
